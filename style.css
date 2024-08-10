@@ -1,0 +1,53 @@
+body {
+  background-color: #eee0d1 !important;
+}
+.jumbotron {
+  padding: 2rem 1rem;
+}
+.jumbotron h2 {
+  font-size: 40px !important;
+}
+
+.icon-link {
+  margin-left: 20px;
+  color: #000; /* Set the icon color here */
+  text-decoration: none; /* Remove underline */
+}
+.icon-link i {
+  font-size: 25px; /* Adjust icon size if needed */
+  transition: color 0.3s; /* Smooth color transition on hover */
+}
+.icon-link:hover i,
+.icon-link:focus i {
+  color: #000; /* Keep the color same on hover/focus */
+}
+
+.about {
+  padding: 20px;
+  font-size: 18px;
+  color: #eee0d1;
+}
+.about h2 {
+  margin: 30px 0;
+}
+
+.skill-list-item {
+  background-color: #d05a68;
+  color: #eee0d1;
+  border: 1px solid #ddd;
+  border-radius: 30px;
+  padding: 10px;
+  margin-bottom: 10px;
+  text-align: center;
+}
+
+#projek {
+  margin: 30px 0;
+  background-color: #d05a68;
+}
+
+#projek h2 {
+  color: #eee0d1;
+  margin: 30px 0;
+}
+
